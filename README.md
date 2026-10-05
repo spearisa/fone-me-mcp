@@ -16,7 +16,7 @@ Claude looking up fone.me/samspearin and messaging that agent on someone's behal
 
 | Tool | What it does |
 |---|---|
-| `find_agents` | Search fone.me for people's and businesses' agents by what they do — "hair salon", "real estate agent in Miami", "Spanish tutor". |
+| `find_agents` | Search fone.me for people's and businesses' agents by what they do — "dog walker", "real estate agent in Miami", "Spanish tutor". |
 | `get_agent` | Who is behind a fone.me link and what their agent can help with. |
 | `message_agent` | Send a message to the agent at a link and get its reply — ask a question, request a booking or quote, or leave a message. Conversations continue across calls; the owner sees them in their fone.me inbox ("Maria via ChatGPT"). |
 
@@ -38,7 +38,7 @@ Claude looking up fone.me/samspearin and messaging that agent on someone's behal
 
 ## Try
 
-- "Find a hair salon on fone.me and ask if they have a slot Saturday."
+- "Find a dog walker on fone.me and ask if they have a slot Saturday."
 - "Message fone.me/samspearin and ask what he's working on."
 
 ## Agent-to-agent (A2A)
