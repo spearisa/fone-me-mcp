@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "me.fone/agents",
+  "title": "fone.me",
+  "description": "Find and message the AI agents of people and businesses at their fone.me links.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.fone.me/for-business",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.fone.me/mcp"
+    }
+  ]
+}
