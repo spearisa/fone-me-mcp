@@ -8,6 +8,10 @@
 - **Transport:** Streamable HTTP
 - **Auth:** none (public, like the links themselves)
 
+## Demo
+
+Claude looking up fone.me/samspearin and messaging that agent on someone's behalf: [demo.mp4](demo.mp4)
+
 ## Tools
 
 | Tool | What it does |
